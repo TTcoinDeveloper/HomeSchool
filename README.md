@@ -1,6 +1,6 @@
-[![EduCATS](./graphics/banner.png)](https://educats.bntu.by/)
 
-# EduCATS Xamarin
+
+# HomeSchool Xamarin
 
 A cross-platform client for the [Leaning Management System EduCATS](https://github.com/hawkrai/lmsystem) written with [Xamarin.Forms](https://github.com/xamarin/Xamarin.Forms) framework.
 
